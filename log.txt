@@ -1,0 +1,259 @@
+Start Game
+
+Elf Wizard(H:100)(VIP)                    Orc Voodoo(H:100)
+Elf Warrior#1(H:100)(VIP)          Orc Goblin#1(H:100)(VIP)
+Elf Archer#1(H:100)                Orc Archer#1(H:100)(VIP)
+Elf Warrior#2(H:100)               Orc Goblin#2(H:100)(VIP)
+Elf Archer#2(H:100)                Orc Archer#2(H:100)(VIP)
+Elf Warrior#3(H:100)                    Orc Goblin#3(H:100)
+Elf Archer#3(H:100)(VIP)                Orc Archer#3(H:100)
+Elf Warrior#4(H:100)               Orc Goblin#4(H:100)(VIP)
+
+Turn 1: Orc Goblin#2(H:100)(VIP) attack (20+10) Elf Warrior#2 (100-30=70) 
+Orc Goblin#2 not VIP
+Turn 2: Elf Warrior#1(H:100)(VIP) attack (15+8) Orc Archer#2(VIP) (100-23=77) 
+Elf Warrior#1 not VIP
+Turn 3: Orc Goblin#1(H:100)(VIP) attack (20+10) Elf Warrior#2 (70-30=40) 
+Orc Goblin#1 not VIP
+Turn 4: Elf Archer#3(H:100)(VIP) attack (7+4) Orc Goblin#2 (100-11=89) 
+Elf Archer#3 not VIP
+Turn 5: Orc Archer#1(H:100)(VIP) attack (2+1) Elf Archer#3 (100-3=97) 
+Orc Archer#1 not VIP
+Turn 6: Elf Wizard(H:100)(VIP) attack (10+5) Orc Voodoo (100-15=85) 
+Elf Wizard not VIP
+Turn 7: Orc Goblin#4(H:100)(VIP) attack (20+10) Elf Warrior#4 (100-30=70) 
+Orc Goblin#4 not VIP
+Turn 8: Elf Warrior#1(H:100) attack (15) Orc Goblin#4 (100-15=85) 
+Turn 9: Orc Archer#2(H:77)(VIP) attack (2+1) Elf Archer#2 (100-3=97) 
+Orc Archer#2 not VIP
+Turn 10: Elf Archer#3(H:97) attack (3) Orc Archer#2 (77-3=74) 
+Turn 11: Orc Archer#1(H:100) attack (2) Elf Wizard (100-2=98) 
+Turn 12: Elf Archer#2(H:97) attack (3) Orc Goblin#2 (89-3=86) 
+Turn 13: Orc Goblin#2(H:86) attack (20) Elf Archer#3 (97-20=77) 
+Turn 14: Elf Archer#3(H:77) attack (7) Orc Goblin#2 (86-7=79) 
+Turn 15: Orc Archer#2(H:74) attack (3) Elf Warrior#2 (40-3=37) 
+Turn 16: Elf Warrior#4(H:70) attack (15) Orc Voodoo (85-15=70) 
+Turn 17: Orc Goblin#3(H:100) attack (20) Elf Warrior#1 (100-20=80) 
+Turn 18: Elf Warrior#4(H:70) attack (15) Orc Goblin#3 (100-15=85) 
+Turn 19: Orc Archer#2(H:74) attack (2) Elf Warrior#4 (70-2=68) 
+Turn 20: Elf Warrior#2(H:37) attack (15) Orc Archer#2 (74-15=59) 
+Turn 21: Orc Goblin#2(H:79) attack (20) Elf Warrior#2 (37-20=17) 
+Turn 22: Elf Wizard(H:98) add VIP for: Elf Warrior#2(H:17)(VIP)
+Turn 23: Orc Goblin#1(H:100) attack (20) Elf Warrior#4 (68-20=48) 
+Turn 24: Elf Warrior#2(H:17)(VIP) attack (15+8) Orc Goblin#2 (79-23=56) 
+Elf Warrior#2 not VIP
+Turn 25: Orc Goblin#2(H:56) attack (20) Elf Archer#3 (77-20=57) 
+Turn 26: Elf Archer#2(H:97) attack (3) Orc Goblin#4 (85-3=82) 
+Turn 27: Orc Goblin#4(H:82) attack (20) Elf Warrior#3 (100-20=80) 
+Turn 28: Elf Archer#3(H:57) attack (3) Orc Archer#3 (100-3=97) 
+Turn 29: Orc Goblin#3(H:85) attack (20) Elf Archer#3 (57-20=37) 
+Turn 30: Elf Wizard(H:98) add VIP for: Elf Warrior#4(H:48)(VIP)
+Turn 31: Orc Goblin#2(H:56) attack (20) Elf Wizard (98-20=78) 
+Turn 32: Elf Warrior#4(H:48)(VIP) attack (15+8) Orc Voodoo (70-23=47) 
+Elf Warrior#4 not VIP
+Turn 33: Orc Archer#1(H:100) attack (2) Elf Wizard (78-2=76) 
+Turn 34: Elf Archer#2(H:97) attack (3) Orc Goblin#4 (82-3=79) 
+Turn 35: Orc Goblin#2(H:56) attack (20) Elf Archer#1 (100-20=80) 
+Turn 36: Elf Wizard(H:76) attack (10) Orc Archer#2 (59-10=49) 
+Turn 37: Orc Archer#2(H:49) attack (3) Elf Wizard (76-3=73) 
+Turn 38: Elf Archer#3(H:37) attack (3) Orc Archer#2 (49-3=46) 
+Turn 39: Orc Goblin#4(H:79) attack (20) Elf Archer#2 (97-20=77) 
+Turn 40: Elf Warrior#1(H:80) attack (15) Orc Archer#2 (46-15=31) 
+Turn 41: Orc Voodoo(H:47) take off VIP for: Elf Archer#1(H:80)(BAN)
+Turn 42: Elf Warrior#4(H:48) attack (15) Orc Archer#2 (31-15=16) 
+Elf Archer#1 Not BAN, Elf Archer#1(H:80)(VIP)
+Turn 43: Orc Goblin#2(H:56) attack (20) Elf Warrior#3 (80-20=60) 
+Turn 44: Elf Archer#1(H:80)(VIP) attack (3+2) Orc Voodoo (47-5=42) 
+Elf Archer#1 not VIP
+Turn 45: Orc Archer#3(H:97) attack (2) Elf Wizard (73-2=71) 
+Turn 46: Elf Archer#1(H:80) attack (3) Orc Goblin#1 (100-3=97) 
+Turn 47: Orc Goblin#4(H:79) attack (20) Elf Archer#1 (80-20=60) 
+Turn 48: Elf Warrior#1(H:80) attack (15) Orc Goblin#4 (79-15=64) 
+Turn 49: Orc Archer#1(H:100) attack (2) Elf Warrior#1 (80-2=78) 
+Turn 50: Elf Warrior#4(H:48) attack (15) Orc Goblin#2 (56-15=41) 
+Turn 51: Orc Archer#3(H:97) attack (2) Elf Warrior#3 (60-2=58) 
+Turn 52: Elf Warrior#1(H:78) attack (15) Orc Voodoo (42-15=27) 
+Turn 53: Orc Archer#3(H:97) attack (3) Elf Wizard (71-3=68) 
+Turn 54: Elf Archer#3(H:37) attack (3) Orc Voodoo (27-3=24) 
+Turn 55: Orc Goblin#2(H:41) attack (20) Elf Archer#3 (37-20=17) 
+Turn 56: Elf Archer#1(H:60) attack (3) Orc Goblin#1 (97-3=94) 
+Turn 57: Orc Goblin#2(H:41) attack (20) Elf Wizard (68-20=48) 
+Turn 58: Elf Warrior#2(H:17) attack (15) Orc Archer#1 (100-15=85) 
+Turn 59: Orc Goblin#2(H:41) attack (20) Elf Warrior#4 (48-20=28) 
+Turn 60: Elf Warrior#1(H:78) attack (15) Orc Goblin#4 (64-15=49) 
+Turn 61: Orc Goblin#2(H:41) attack (20) Elf Warrior#4 (28-20=8) 
+Turn 62: Elf Archer#3(H:17) attack (7) Orc Goblin#4 (49-7=42) 
+Turn 63: Orc Goblin#3(H:85) attack (20) Elf Archer#2 (77-20=57) 
+Turn 64: Elf Wizard(H:48) attack (10) Orc Archer#3 (97-10=87) 
+Turn 65: Orc Voodoo(H:24) add VIP for: Orc Goblin#3(H:85)(VIP)
+Turn 66: Elf Wizard(H:48) add VIP for: Elf Warrior#4(H:8)(VIP)
+Turn 67: Orc Goblin#3(H:85)(VIP) attack (20+10) Elf Archer#1 (60-30=30) 
+Orc Goblin#3 not VIP
+Turn 68: Elf Warrior#4(H:8)(VIP) attack (15+8) Orc Goblin#2 (41-23=18) 
+Elf Warrior#4 not VIP
+Turn 69: Orc Archer#1(H:85) attack (2) Elf Warrior#1 (78-2=76) 
+Turn 70: Elf Warrior#3(H:58) attack (15) Orc Goblin#4 (42-15=27) 
+Turn 71: Orc Goblin#2(H:18) attack (20) Elf Warrior#4 (8-20=-12) DIE...
+
+Elf Archer#2(H:57)                         Orc Voodoo(H:24)
+Elf Warrior#3(H:58)                      Orc Archer#3(H:87)
+Elf Warrior#1(H:76)                      Orc Goblin#2(H:18)
+Elf Archer#3(H:17)                       Orc Goblin#1(H:94)
+Elf Wizard(H:48)                         Orc Archer#1(H:85)
+Elf Warrior#2(H:17)                      Orc Goblin#4(H:27)
+Elf Archer#1(H:30)                       Orc Archer#2(H:16)
+                                         Orc Goblin#3(H:85)
+
+Turn 72: Elf Warrior#3(H:58) attack (15) Orc Archer#2 (16-15=1) 
+Turn 73: Orc Voodoo(H:24) add VIP for: Orc Goblin#3(H:85)(VIP)
+Turn 74: Elf Warrior#1(H:76) attack (15) Orc Voodoo (24-15=9) 
+Turn 75: Orc Goblin#3(H:85)(VIP) attack (20+10) Elf Warrior#2 (17-30=-13) DIE...
+Orc Goblin#3 not VIP
+
+Elf Archer#2(H:57)                          Orc Voodoo(H:9)
+Elf Warrior#3(H:58)                      Orc Archer#3(H:87)
+Elf Warrior#1(H:76)                      Orc Goblin#2(H:18)
+Elf Archer#3(H:17)                       Orc Goblin#1(H:94)
+Elf Wizard(H:48)                         Orc Archer#1(H:85)
+Elf Archer#1(H:30)                       Orc Goblin#4(H:27)
+                                          Orc Archer#2(H:1)
+                                         Orc Goblin#3(H:85)
+
+Turn 76: Elf Archer#3(H:17) attack (7) Orc Archer#2 (1-7=-6) DIE...
+
+Elf Archer#2(H:57)                          Orc Voodoo(H:9)
+Elf Warrior#3(H:58)                      Orc Archer#3(H:87)
+Elf Warrior#1(H:76)                      Orc Goblin#2(H:18)
+Elf Archer#3(H:17)                       Orc Goblin#1(H:94)
+Elf Wizard(H:48)                         Orc Archer#1(H:85)
+Elf Archer#1(H:30)                       Orc Goblin#4(H:27)
+                                         Orc Goblin#3(H:85)
+
+Turn 77: Orc Voodoo(H:9) add VIP for: Orc Goblin#2(H:18)(VIP)
+Turn 78: Elf Archer#3(H:17) attack (3) Orc Goblin#3 (85-3=82) 
+Turn 79: Orc Goblin#2(H:18)(VIP) attack (20+10) Elf Archer#2 (57-30=27) 
+Orc Goblin#2 not VIP
+Turn 80: Elf Warrior#1(H:76) attack (15) Orc Goblin#3 (82-15=67) 
+Turn 81: Orc Voodoo(H:9) add VIP for: Orc Goblin#3(H:67)(VIP)
+Turn 82: Elf Archer#3(H:17) attack (7) Orc Goblin#1 (94-7=87) 
+Turn 83: Orc Goblin#3(H:67)(VIP) attack (20+10) Elf Warrior#3 (58-30=28) 
+Orc Goblin#3 not VIP
+Turn 84: Elf Warrior#3(H:28) attack (15) Orc Goblin#2 (18-15=3) 
+Turn 85: Orc Archer#1(H:85) attack (2) Elf Wizard (48-2=46) 
+Turn 86: Elf Warrior#3(H:28) attack (15) Orc Goblin#4 (27-15=12) 
+Turn 87: Orc Goblin#3(H:67) attack (20) Elf Wizard (46-20=26) 
+Turn 88: Elf Wizard(H:26) add VIP for: Elf Archer#2(H:27)(VIP)
+Turn 89: Orc Goblin#1(H:87) attack (20) Elf Archer#1 (30-20=10) 
+Turn 90: Elf Archer#2(H:27)(VIP) attack (3+2) Orc Archer#1 (85-5=80) 
+Elf Archer#2 not VIP
+Turn 91: Orc Voodoo(H:9) add VIP for: Orc Goblin#3(H:67)(VIP)
+Turn 92: Elf Archer#2(H:27) attack (3) Orc Goblin#3(VIP) (67-3=64) 
+Turn 93: Orc Goblin#3(H:64)(VIP) attack (20+10) Elf Warrior#1 (76-30=46) 
+Orc Goblin#3 not VIP
+Turn 94: Elf Warrior#3(H:28) attack (15) Orc Goblin#4 (12-15=-3) DIE...
+
+Elf Warrior#3(H:28)                         Orc Voodoo(H:9)
+Elf Warrior#1(H:46)                      Orc Archer#3(H:87)
+Elf Archer#3(H:17)                       Orc Goblin#1(H:87)
+Elf Wizard(H:26)                         Orc Archer#1(H:80)
+Elf Archer#1(H:10)                        Orc Goblin#2(H:3)
+Elf Archer#2(H:27)                       Orc Goblin#3(H:64)
+
+Turn 95: Orc Goblin#1(H:87) attack (20) Elf Archer#3 (17-20=-3) DIE...
+
+Elf Warrior#3(H:28)                         Orc Voodoo(H:9)
+Elf Warrior#1(H:46)                      Orc Archer#3(H:87)
+Elf Wizard(H:26)                         Orc Goblin#1(H:87)
+Elf Archer#1(H:10)                       Orc Archer#1(H:80)
+Elf Archer#2(H:27)                        Orc Goblin#2(H:3)
+                                         Orc Goblin#3(H:64)
+
+Turn 96: Elf Warrior#3(H:28) attack (15) Orc Goblin#2 (3-15=-12) DIE...
+
+Elf Warrior#3(H:28)                         Orc Voodoo(H:9)
+Elf Warrior#1(H:46)                      Orc Archer#3(H:87)
+Elf Wizard(H:26)                         Orc Goblin#1(H:87)
+Elf Archer#1(H:10)                       Orc Archer#1(H:80)
+Elf Archer#2(H:27)                       Orc Goblin#3(H:64)
+
+Turn 97: Orc Voodoo(H:9) add VIP for: Orc Archer#1(H:80)(VIP)
+Turn 98: Elf Archer#2(H:27) attack (3) Orc Voodoo (9-3=6) 
+Turn 99: Orc Archer#1(H:80)(VIP) attack (2+1) Elf Archer#2 (27-3=24) 
+Orc Archer#1 not VIP
+Turn 100: Elf Archer#1(H:10) attack (7) Orc Archer#3 (87-7=80) 
+Turn 101: Orc Archer#1(H:80) attack (2) Elf Warrior#3 (28-2=26) 
+Turn 102: Elf Warrior#3(H:26) attack (15) Orc Goblin#3 (64-15=49) 
+Turn 103: Orc Goblin#3(H:49) attack (20) Elf Warrior#3 (26-20=6) 
+Turn 104: Elf Archer#2(H:24) attack (7) Orc Archer#1 (80-7=73) 
+Turn 105: Orc Archer#3(H:80) attack (2) Elf Warrior#1 (46-2=44) 
+Turn 106: Elf Archer#2(H:24) attack (7) Orc Archer#1 (73-7=66) 
+Turn 107: Orc Goblin#3(H:49) attack (20) Elf Archer#2 (24-20=4) 
+Turn 108: Elf Archer#1(H:10) attack (3) Orc Goblin#1 (87-3=84) 
+Turn 109: Orc Archer#1(H:66) attack (2) Elf Warrior#1 (44-2=42) 
+Turn 110: Elf Warrior#3(H:6) attack (15) Orc Goblin#1 (84-15=69) 
+Turn 111: Orc Goblin#1(H:69) attack (20) Elf Archer#2 (4-20=-16) DIE...
+
+Elf Warrior#3(H:6)                          Orc Voodoo(H:6)
+Elf Warrior#1(H:42)                      Orc Archer#3(H:80)
+Elf Wizard(H:26)                         Orc Goblin#1(H:69)
+Elf Archer#1(H:10)                       Orc Goblin#3(H:49)
+                                         Orc Archer#1(H:66)
+
+Turn 112: Elf Warrior#1(H:42) attack (15) Orc Goblin#1 (69-15=54) 
+Turn 113: Orc Archer#3(H:80) attack (2) Elf Archer#1 (10-2=8) 
+Turn 114: Elf Warrior#3(H:6) attack (15) Orc Archer#3 (80-15=65) 
+Turn 115: Orc Goblin#1(H:54) attack (20) Elf Archer#1 (8-20=-12) DIE...
+
+Elf Warrior#3(H:6)                          Orc Voodoo(H:6)
+Elf Warrior#1(H:42)                      Orc Archer#3(H:65)
+Elf Wizard(H:26)                         Orc Goblin#1(H:54)
+                                         Orc Goblin#3(H:49)
+                                         Orc Archer#1(H:66)
+
+Turn 116: Elf Wizard(H:26) attack (10) Orc Archer#1 (66-10=56) 
+Turn 117: Orc Goblin#3(H:49) attack (20) Elf Warrior#3 (6-20=-14) DIE...
+
+Elf Warrior#1(H:42)                         Orc Voodoo(H:6)
+Elf Wizard(H:26)                         Orc Archer#3(H:65)
+                                         Orc Goblin#1(H:54)
+                                         Orc Goblin#3(H:49)
+                                         Orc Archer#1(H:56)
+
+Turn 118: Elf Wizard(H:26) attack (10) Orc Voodoo (6-10=-4) DIE...
+
+Elf Warrior#1(H:42)                      Orc Archer#3(H:65)
+Elf Wizard(H:26)                         Orc Goblin#1(H:54)
+                                         Orc Goblin#3(H:49)
+                                         Orc Archer#1(H:56)
+
+Turn 119: Orc Archer#1(H:56) attack (3) Elf Warrior#1 (42-3=39) 
+Turn 120: Elf Warrior#1(H:39) attack (15) Orc Goblin#1 (54-15=39) 
+Turn 121: Orc Goblin#3(H:49) attack (20) Elf Warrior#1 (39-20=19) 
+Turn 122: Elf Warrior#1(H:19) attack (15) Orc Archer#1 (56-15=41) 
+Turn 123: Orc Archer#3(H:65) attack (3) Elf Wizard (26-3=23) 
+Turn 124: Elf Warrior#1(H:19) attack (15) Orc Goblin#3 (49-15=34) 
+Turn 125: Orc Archer#1(H:41) attack (2) Elf Wizard (23-2=21) 
+Turn 126: Elf Wizard(H:21) add VIP for: Elf Warrior#1(H:19)(VIP)
+Turn 127: Orc Archer#1(H:41) attack (3) Elf Wizard (21-3=18) 
+Turn 128: Elf Warrior#1(H:19)(VIP) attack (15+8) Orc Goblin#3 (34-23=11) 
+Elf Warrior#1 not VIP
+Turn 129: Orc Goblin#3(H:11) attack (20) Elf Warrior#1 (19-20=-1) DIE...
+
+Elf Wizard(H:18)                         Orc Archer#3(H:65)
+                                         Orc Goblin#1(H:39)
+                                         Orc Goblin#3(H:11)
+                                         Orc Archer#1(H:41)
+
+Turn 130: Elf Wizard(H:18) attack (10) Orc Archer#1 (41-10=31) 
+Turn 131: Orc Archer#1(H:31) attack (2) Elf Wizard (18-2=16) 
+Turn 132: Elf Wizard(H:16) attack (10) Orc Archer#3 (65-10=55) 
+Turn 133: Orc Archer#3(H:55) attack (2) Elf Wizard (16-2=14) 
+Turn 134: Elf Wizard(H:14) attack (10) Orc Goblin#1 (39-10=29) 
+Turn 135: Orc Goblin#1(H:29) attack (20) Elf Wizard (14-20=-6) DIE...
+
+                                         Orc Archer#3(H:55)
+                                         Orc Goblin#1(H:29)
+                                         Orc Goblin#3(H:11)
+                                         Orc Archer#1(H:31)
+
+Game ower
